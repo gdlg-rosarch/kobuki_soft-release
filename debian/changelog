@@ -1,0 +1,34 @@
+ros-kinetic-kobuki-soft (0.1.3-0wily) wily; urgency=high
+
+  * remove yujin map dependency. update maintainer
+  * Contributors: Jihoon Lee
+
+ -- Jihoon Lee <jihoonlee.in@gmail.com>  Sun, 14 Aug 2016 22:00:00 -0000
+
+ros-kinetic-kobuki-soft (0.1.2-0wily) wily; urgency=high
+
+
+
+ -- Jihoon Lee <jihoonlee.in@gmail.com>  Sun, 14 Aug 2016 22:00:00 -0000
+
+ros-kinetic-kobuki-soft (0.1.1-0wily) wily; urgency=high
+
+
+
+ -- Jihoon Lee <jihoonlee.in@gmail.com>  Thu, 11 Dec 2014 23:00:00 -0000
+
+ros-kinetic-kobuki-soft (0.1.0-0wily) wily; urgency=high
+
+
+
+ -- Jihoon Lee <jihoonlee.in@gmail.com>  Thu, 07 Aug 2014 22:00:00 -0000
+
+ros-kinetic-kobuki-soft (0.0.1-0wily) wily; urgency=high
+
+  * typo
+  * metapcakge
+  * Contributors: Jihoon Lee
+
+ -- Jihoon Lee <jihoonlee.in@gmail.com>  Wed, 10 Jul 2013 22:00:00 -0000
+
+
