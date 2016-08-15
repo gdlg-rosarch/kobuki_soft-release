@@ -2,6 +2,16 @@
 Changelog for package kobuki_softnode
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.3 (2016-08-15)
+------------------
+* remove yujin map dependency. update maintainer
+* Contributors: Jihoon Lee
+
+0.1.2 (2016-08-15)
+------------------
+* add twist information into the odometry fake_kobuki_ros publishes
+* Contributors: Ryosuke Tajima
+
 0.1.1 (2014-12-12)
 ------------------
 
